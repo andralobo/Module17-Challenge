@@ -4,9 +4,9 @@
 
 ### Purpose
 
-We were tasked to use different techniques to train and evaluate the models with unblalaced classes to predict credit card risk.  We were provided a CSV that contained data from lendingClub to use for the analysis.  We will use Python and imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling and use different supervised machine learning models for our analysis.
+We were tasked to use different techniques to train and evaluate the models to predict credit card risk.  We were provided a CSV that contained data from lendingClub to use for the analysis.  We will use Python and imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling and use different supervised machine learning models for our analysis.
 
-We used the 6 different algorithms for our analysis:
+Below are the six supervised machine learning models we used for our:
 
 1.  Naive Random Oversampling
 2.  SMOTE Oversampling
