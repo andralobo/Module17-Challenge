@@ -49,7 +49,7 @@ We used the 6 different algorithms for our analysis:
 
 1. Naive Random Oversampling:
 
-<img src="https://github.com/andralobo/Module17-Challenge/blob/main/Resources/NativeRandomOversampling.png?raw=true" width="auto" height="auto">
+<img src="https://github.com/andralobo/Module17-Challenge/blob/main/Resources/NaticeRandomOversampling.png?raw=true" width="auto" height="auto">
 
 2. SMOTE Oversampling
 
