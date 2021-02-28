@@ -22,16 +22,16 @@ Below is the balanced accuracy score and the precision and recall scores of all 
 
 ### 1. Naive Random Oversampling:</u></b>
 
-<b>Balanced Accuracy Score: </b>.66
-<b>Precision Score: </b>.99
-<b>Recall Score: </b>.58
+<b>Balanced Accuracy Score: </b>.66 <br>
+<b>Precision Score: </b>.99 <br>
+<b>Recall Score: </b>.58 
 
 <img src="https://github.com/andralobo/Module17-Challenge/blob/main/Resources/NaticeRandomOversampling.png?raw=true" width="auto" height="auto">
 
 ### 2. SMOTE Oversampling
 
-<b>Balanced Accuracy Score: </b>.65
-<b>Precision Score: </b>.99
+<b>Balanced Accuracy Score: </b>.65 <br>
+<b>Precision Score: </b>.99 <br>
 <b>Recall Score: </b>.68
 
 <img src="https://github.com/andralobo/Module17-Challenge/blob/main/Resources/Smote.png?raw=true" width="auto" height="auto">
@@ -39,16 +39,16 @@ Below is the balanced accuracy score and the precision and recall scores of all 
 
 ### 3. Cluster Centroid Undersampling
 
-<b>Balanced Accuracy Score: </b>.54
-<b>Precision Score: </b>.99
+<b>Balanced Accuracy Score: </b>.54 <br>
+<b>Precision Score: </b>.99 <br>
 <b>Recall Score: </b>.40
 
 <img src="https://github.com/andralobo/Module17-Challenge/blob/main/Resources/ClusterCentroidUndersampling.png?raw=true" width="auto" height="auto">
 
 ### 4. SMOTEENN Sampling
 
-<b>Balanced Accuracy Score: </b>.64
-<b>Precision Score: </b>.99
+<b>Balanced Accuracy Score: </b>.64 <br>
+<b>Precision Score: </b>.99 <br>
 <b>Recall Score: </b>.57
 
 <img src="https://github.com/andralobo/Module17-Challenge/blob/main/Resources/Smoteenn.png?raw=true" width="auto" height="auto">
@@ -56,8 +56,8 @@ Below is the balanced accuracy score and the precision and recall scores of all 
 
 ### 5. Balanced Random Forest Classifying
 
-<b>Balanced Accuracy Score: </b>.77
-<b>Precision Score: </b>.99
+<b>Balanced Accuracy Score: </b>.77 <br>
+<b>Precision Score: </b>.99 <br>
 <b>Recall Score: </b>.87
 
 <img src="https://github.com/andralobo/Module17-Challenge/blob/main/Resources/BalancedRandomForestClassifying.png?raw=true" width="auto" height="auto">
@@ -65,8 +65,8 @@ Below is the balanced accuracy score and the precision and recall scores of all 
 
 ### 6. Easy Ensemble Classifying
 
-<b>Balanced Accuracy Score: </b>.93
-<b>Precision Score: </b>.99
+<b>Balanced Accuracy Score: </b>.93 <br>
+<b>Precision Score: </b>.99 <br>
 <b>Recall Score: </b>.94
 
 <img src="https://github.com/andralobo/Module17-Challenge/blob/main/Resources/EasyEnsembleClassifying.png?raw=true" width="auto" height="auto">
