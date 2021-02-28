@@ -74,4 +74,4 @@ Below is the balanced accuracy score and the precision and recall scores of all 
 
 ## Summary
 
-After reviewing the balanced accuracy score and the precision and recall scores of all six machine learning models we have concluded that Easy Ensemble Classifying model had the best results over the others.    
+After reviewing the balanced accuracy score and the precision and recall scores of all six machine learning models we have concluded that Easy Ensemble Classifying model had the best results over the others and would recommend this model.   
